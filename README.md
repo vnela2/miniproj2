@@ -1,2 +1,2 @@
 # miniproj2
-something2something
+Goes from the metal elements to metal to gears to watches to a watch brand
